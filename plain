@@ -1,10 +1,10 @@
-MYSQL_HOST= mysql.sqlpub.com
-MYSQL_PORT= 3306
-MYSQL_DATABASE= 
-MYSQL_USER= 
-MYSQL_PASSWORD= 
-MYSQL_PORT=
+MYSQL_HOST= mysql2.sqlpub.com
+MYSQL_PORT= 3307
+MYSQL_DATABASE= huijie
+MYSQL_USER= zhaowen
+MYSQL_PASSWORD= ijVNgCpLmMDiM87A
+WX_ROBOT_URL= https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=
 JWT_SECRET_KEY= lovetrick
 DRAWING_BED = IMGBB
-IMGBB_API =
-WEB_URL =
+IMGBB_API = 
+WEB_URL = 
